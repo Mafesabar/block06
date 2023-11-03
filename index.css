@@ -1,0 +1,22 @@
+h1 {
+    text-align: center; border;
+}
+
+h2{
+    text-align: left; border: thick double;
+}
+
+h3{
+    text-align: left; border: solid; 
+}
+
+    section {background-color:grey; 
+        display: inline-block;;
+        margin: 1%;;
+    width: 200px;
+      }
+
+img {
+    height: 200px;
+    width: 200px;
+}
